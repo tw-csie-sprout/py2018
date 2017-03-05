@@ -7,3 +7,4 @@
 ## 第二週投影片 03/05
 - [布林bool](https://drive.google.com/open?id=0B2iNVzqlGaGIV0o4SHFyQndnUXM)
 - [分枝if](https://drive.google.com/open?id=0B2iNVzqlGaGIenl3QVlNWkMzbk0)
+- [迴圈while](https://drive.google.com/open?id=0B1I8--mbkMQ8d3ZMZ2Y3TWRqZEE)
