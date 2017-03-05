@@ -3,3 +3,7 @@
 - [認識電腦](https://drive.google.com/open?id=0B6wbwXKOYgvhOUNpR210Q3E1dlk)
 - [IDE介紹](https://drive.google.com/open?id=0B6wbwXKOYgvhd01zQmU0bXdYYnc)
 - [變數、運算與註解](https://drive.google.com/open?id=0B5P2VH3szaKES3VseEZ4cXdJeWM)
+
+## 第二週投影片 03/05
+- [布林bool](https://drive.google.com/open?id=0B2iNVzqlGaGIV0o4SHFyQndnUXM)
+- [分枝if](https://drive.google.com/open?id=0B2iNVzqlGaGIenl3QVlNWkMzbk0)
