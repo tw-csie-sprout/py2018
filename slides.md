@@ -13,5 +13,10 @@
 
 
 ## 第三週投影片 03/12
-- [第三週筆記_1.列表的基本語法](note/list_intro.html)
-- [第三週筆記_3.列表的複製與時間複雜度](note/list_copy_time.html)
+- [For迴圈](https://drive.google.com/open?id=0B1I8--mbkMQ8MGV5aHRtREFfUDA)
+- [List 基本語法](https://drive.google.com/open?id=0B5P2VH3szaKEZ1hXYjRiNUVOWnM)
+- [List 方法](https://drive.google.com/open?id=0B5P2VH3szaKEZFZhVmpGdDdpdm8)
+- [行尾空白解決方式](note/test.py)
+- [筆記1. List基本語法](note/list_intro.html)
+- [筆記2. List方法](note/list_method.html)
+- [筆記3. List範例](note/list_example.html)
