@@ -10,3 +10,8 @@
 - [迴圈while](https://drive.google.com/open?id=0B1I8--mbkMQ8d3ZMZ2Y3TWRqZEE)
 - [I:O](https://drive.google.com/open?id=0B1I8--mbkMQ8NWJrdjc3bWVpYkE)
 - [第二週筆記](note/week2-note.html)
+
+
+## 第三週投影片 03/12
+- [第三週筆記_1.列表的基本語法](note/list_intro.html)
+- [第三週筆記_3.列表的複製與時間複雜度](note/list_copy_time.html)
