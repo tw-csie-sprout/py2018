@@ -26,3 +26,4 @@
 - [Import](https://drive.google.com/open?id=0B2iNVzqlGaGIR3BBNTE5MkZKLUU)
 - [File I/O](https://drive.google.com/open?id=0B2iNVzqlGaGISDZxQS02cDF0elE)
 - [筆記1. String](note/string_lesson1.html)
+- [筆記2. import](note/import.html)
