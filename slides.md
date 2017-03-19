@@ -21,7 +21,7 @@
 - [筆記2. List方法](note/list_method.html)
 - [筆記3. List範例](note/list_example.html)
 
-## 第三週投影片 03/12
+## 第四週投影片 03/19
 - [String 1](https://drive.google.com/open?id=0B5P2VH3szaKEV2RyMjhnVG1MZzg)
 - [Import](https://drive.google.com/open?id=0B2iNVzqlGaGIR3BBNTE5MkZKLUU)
 - [File I/O](https://drive.google.com/open?id=0B2iNVzqlGaGISDZxQS02cDF0elE)
