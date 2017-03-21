@@ -18,7 +18,8 @@
 | 0305 02 |           | 邏輯, 條件(if), while, IO |
 | 0312 03 |           | for, range, List |
 | 0319 04 |           | String1, import (random), File IO | 
-| 0326 05 | 大作業1   | String2, 自訂函數, dict |
-| 0402 06 | 大作業2   | 掃雷, 課程回顧 | 
-| 0409 07 |           | None, scope, swap, tuple, list comp |
-| 0416 08 |           | 考試 |
+| 0326    |           | 停課一次 |
+| 0402 05 | 大作業1   | String2, 自訂函數, dict | 
+| 0409 06 | 大作業1   | 掃雷, 課程回顧 |  
+| 0416 07 |           | None, scope, swap, tuple, list comp |
+| 0423 08 |           | 考試 |
