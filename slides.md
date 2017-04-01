@@ -27,3 +27,8 @@
 - [File I/O](https://drive.google.com/open?id=0B2iNVzqlGaGISDZxQS02cDF0elE)
 - [筆記1. String](note/String_lesson1.html)
 - [筆記2. import](note/Import.html)
+
+## 第五週投影片 03/19
+- [String 1]()
+- [大作業範例. Pillow](note/try_pillow.html)
+- [大作業範例. Matplotlib](note/try_matplotlib.html)
