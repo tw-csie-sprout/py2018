@@ -31,5 +31,6 @@
 ## 第五週投影片 04/02
 - [函數](https://drive.google.com/open?id=0B6wbwXKOYgvhMllBc0FWalZ5b1U)
 - [Dictionary](https://drive.google.com/open?id=0B2iNVzqlGaGIWUVPS250U1NCWjA)
+- [大作業說明](https://drive.google.com/open?id=0B5P2VH3szaKEdEJvall5WEZsWnM)
 - [大作業範例. Pillow](note/try_pillow.html)
 - [大作業範例. Matplotlib](note/try_matplotlib.html)
