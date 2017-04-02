@@ -28,7 +28,7 @@
 - [筆記1. String](note/String_lesson1.html)
 - [筆記2. import](note/Import.html)
 
-## 第五週投影片 03/19
+## 第五週投影片 04/02
 - [函數](https://drive.google.com/open?id=0B6wbwXKOYgvhMllBc0FWalZ5b1U)
 - [Dictionary](https://drive.google.com/open?id=0B2iNVzqlGaGIWUVPS250U1NCWjA)
 - [大作業範例. Pillow](note/try_pillow.html)
