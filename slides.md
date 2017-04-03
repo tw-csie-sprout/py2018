@@ -29,6 +29,9 @@
 - [筆記2. import](note/Import.html)
 
 ## 第五週投影片 03/19
-- [String 1]()
+- [函式 Function](https://drive.google.com/open?id=0B6wbwXKOYgvhN1k5aG40akRQcmM)
+- [字典 Dictionary](https://drive.google.com/open?id=0B2iNVzqlGaGIWUVPS250U1NCWjA)
+- [大作業說明](https://drive.google.com/open?id=0B5P2VH3szaKEdEJvall5WEZsWnM)
 - [大作業範例. Pillow](note/try_pillow.html)
 - [大作業範例. Matplotlib](note/try_matplotlib.html)
+- [大作業測試用照片](note/sample.jpg)
