@@ -37,4 +37,4 @@
 - [大作業測試用照片](note/sample.jpg)
 
 ## 第六週投影片 04/09
-- [Online Judge’s Result For Python3](https://drive.google.com/open?id=0B5P2VH3szaKENU9Bb2Zwc3IyZDA)
+- [Online Judge’s Result For Python3](https://drive.google.com/open?id=0B2iNVzqlGaGITzFEUVFuRDZwdzg)
