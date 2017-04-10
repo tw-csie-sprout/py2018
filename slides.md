@@ -38,3 +38,4 @@
 
 ## 第六週投影片 04/09
 - [Online Judge’s Result For Python3](https://drive.google.com/open?id=0B2iNVzqlGaGITzFEUVFuRDZwdzg)
+- [大作業2說明](https://drive.google.com/open?id=0B6wbwXKOYgvhYUZxN1lIY2xUNG8)
