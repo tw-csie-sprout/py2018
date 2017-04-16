@@ -39,3 +39,7 @@
 ## 第六週投影片 04/09
 - [Online Judge’s Result For Python3](https://drive.google.com/open?id=0B2iNVzqlGaGITzFEUVFuRDZwdzg)
 - [大作業2說明](https://drive.google.com/open?id=0B6wbwXKOYgvhYUZxN1lIY2xUNG8)
+- [First Section Review](http://hortune.tw/2017sprouts_py_slides/slides/first_section_review.html)
+
+## 第七週投影片 04/16
+- [List Comprehension](http://hortune.tw/2017sprouts_py_slides/slides/list_comprehension.html)
