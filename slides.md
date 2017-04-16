@@ -42,4 +42,8 @@
 - [First Section Review](http://hortune.tw/2017sprouts_py_slides/slides/first_section_review.html)
 
 ## 第七週投影片 04/16
+
 - [List Comprehension](http://hortune.tw/2017sprouts_py_slides/slides/list_comprehension.html)
+- [Tuple](https://drive.google.com/open?id=0B6wbwXKOYgvhNXF5eG1wSGI4c3c)
+- [Fuction 2](https://drive.google.com/open?id=0B6wbwXKOYgvhVmNseVNzOXhGekE)
+- [String 2](https://drive.google.com/open?id=0B5P2VH3szaKENU9Bb2Zwc3IyZDA)
