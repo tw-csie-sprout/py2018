@@ -1,3 +1,5 @@
+# 第一階段
+
 ## 第一週投影片 02/26
 - [課程介紹](https://drive.google.com/open?id=0B6wbwXKOYgvhcGJxYVJsWi1BTFU)
 - [認識電腦](https://drive.google.com/open?id=0B6wbwXKOYgvhOUNpR210Q3E1dlk)
@@ -47,3 +49,9 @@
 - [Tuple](https://drive.google.com/open?id=0B6wbwXKOYgvhNXF5eG1wSGI4c3c)
 - [Fuction 2](https://drive.google.com/open?id=0B6wbwXKOYgvhVmNseVNzOXhGekE)
 - [String 2](https://drive.google.com/open?id=0B5P2VH3szaKENU9Bb2Zwc3IyZDA)
+
+# 第二階段
+
+## 第一週投影片 05/08
+
+- [Sort](https://drive.google.com/open?id=0B5P2VH3szaKEaU5CMDJLLXdlSFU)
