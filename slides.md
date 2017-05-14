@@ -55,3 +55,7 @@
 ## 第一週投影片 05/08
 
 - [Sort](https://drive.google.com/open?id=0B5P2VH3szaKEaU5CMDJLLXdlSFU)
+
+## 第二週投影片 05/14
+
+- [Queue/Stack](https://drive.google.com/open?id=0B2iNVzqlGaGIWFFFMWd1ZU82Yk0)
