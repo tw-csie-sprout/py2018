@@ -59,3 +59,4 @@
 ## 第二週投影片 05/14
 
 - [Queue/Stack](https://drive.google.com/open?id=0B2iNVzqlGaGIWFFFMWd1ZU82Yk0)
+- [Terminal/Virtualenv](https://goo.gl/TmU02T)
