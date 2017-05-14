@@ -13,3 +13,4 @@
 | 0402 | [大作業1](https://drive.google.com/open?id=0B5P2VH3szaKEdEJvall5WEZsWnM) | [2010-西瓜排序](https://neoj.sprout.tw/problem/2010)、[2011-凌晨4點的修羅道](https://neoj.sprout.tw/problem/2011) | [336-Function--GCD練習](https://neoj.sprout.tw/problem/336)、[339-海芭樂愛的大冒險III](https://neoj.sprout.tw/problem/339) |
 | 0409 | [大作業2](https://drive.google.com/file/d/0B6wbwXKOYgvhYUZxN1lIY2xUNG8/view) | |
 |  0416  |          | [5566-rilak與他的快樂小夥伴們](http://neoj.sprout.tw/problem/5566/) | [354-野豬騎士史記 I](http://neoj.sprout.tw/problem/354/)、[382-西瓜的奇妙冒險 -- 大數據篇](http://neoj.sprout.tw/problem/382/)、[383-海捌樂愛的大冒險 -- 異世界篇](http://neoj.sprout.tw/problem/383/)、[384-海捌樂愛的幸運數字](http://neoj.sprout.tw/problem/384/)|
+|0514|| [8770-Queue 練習](http://neoj.sprout.tw/problem/8770/)、[8771-Stack 練習](http://neoj.sprout.tw/problem/8771/) | [8772-括弧匹配](http://neoj.sprout.tw/problem/8772/) |
