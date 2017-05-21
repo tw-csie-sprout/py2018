@@ -60,3 +60,9 @@
 
 - [Queue/Stack](https://drive.google.com/open?id=0B2iNVzqlGaGIR3kyWkJ5TFNLLUE)
 - [Terminal/Virtualenv](https://goo.gl/TmU02T)
+
+## 第三週投影片 05/21
+
+- [nlp-intro](https://drive.google.com/open?id=0B2iNVzqlGaGIazVSY01RbXYtTTQ)
+- [nlp-ngram](https://drive.google.com/open?id=0B2iNVzqlGaGIYng2Yy1pU2xHTkk)
+- [nlp-misc](https://drive.google.com/open?id=0B2iNVzqlGaGIMnpwR3RwSHZabzg)
