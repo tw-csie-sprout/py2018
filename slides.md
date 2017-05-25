@@ -63,6 +63,7 @@
 
 ## 第三週投影片 05/21
 
+- [遞迴](https://drive.google.com/open?id=0B1I8--mbkMQ8RElWTk9keWZtWGc)
 - [nlp-intro](https://drive.google.com/open?id=0B2iNVzqlGaGIazVSY01RbXYtTTQ)
 - [nlp-ngram](https://drive.google.com/open?id=0B2iNVzqlGaGIYng2Yy1pU2xHTkk)
 - [nlp-misc](https://drive.google.com/open?id=0B2iNVzqlGaGIMnpwR3RwSHZabzg)
