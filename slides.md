@@ -67,3 +67,9 @@
 - [nlp-intro](https://drive.google.com/open?id=0B2iNVzqlGaGIazVSY01RbXYtTTQ)
 - [nlp-ngram](https://drive.google.com/open?id=0B2iNVzqlGaGIYng2Yy1pU2xHTkk)
 - [nlp-misc](https://drive.google.com/open?id=0B2iNVzqlGaGIMnpwR3RwSHZabzg)
+
+## 第四週投影片 05/28
+
+- [json](https://drive.google.com/open?id=0B6wbwXKOYgvhWlNXSGhRVGo0ZEU)
+- [BeautifulSoup 喔~美麗的湯](https://drive.google.com/open?id=0B6wbwXKOYgvhc19LQVlBWFpOOGs)
+- [requests](https://drive.google.com/open?id=0B6wbwXKOYgvhektYSUMxczVQV00)
