@@ -73,3 +73,10 @@
 - [json](https://drive.google.com/open?id=0B6wbwXKOYgvhWlNXSGhRVGo0ZEU)
 - [BeautifulSoup 喔~美麗的湯](https://drive.google.com/open?id=0B6wbwXKOYgvhc19LQVlBWFpOOGs)
 - [requests](https://drive.google.com/open?id=0B6wbwXKOYgvhektYSUMxczVQV00)
+- [requests應用](https://drive.google.com/open?id=0B5P2VH3szaKET3FCQjhBb1ZKRzg)
+- [requests example](note/get_data.html)
+
+## 第五週投影片 06/04
+
+- [FB Graph API](https://drive.google.com/open?id=0B5P2VH3szaKEbFRubzhPWTVVZk0)
+- [去年FB_API大作業](https://gist.github.com/rilak/15a2ad0466619e26ee1b)
