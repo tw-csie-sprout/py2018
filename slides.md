@@ -83,4 +83,5 @@
 
 ## 第六週投影片 06/11
 - [Lambda, Zip, Exception](http://hortune.tw/2017sprouts_py_slides/slides/lambda%20zip%20exception.html#/)
+- [Regular Expression](https://drive.google.com/open?id=0B6wbwXKOYgvhQkluelpNR1lxcVU)
 
