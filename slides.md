@@ -80,3 +80,7 @@
 - [再探遞迴](https://drive.google.com/open?id=0B1I8--mbkMQ8eE1NdzNNb0FfQ2M)
 - [FB Graph API](https://drive.google.com/open?id=0B5P2VH3szaKEbFRubzhPWTVVZk0)
 - [去年FB_API大作業](https://gist.github.com/rilak/15a2ad0466619e26ee1b)
+
+## 第六週投影片 06/11
+- [Lambda, Zip, Exception](http://hortune.tw/2017sprouts_py_slides/slides/lambda%20zip%20exception.html#/)
+
