@@ -15,3 +15,7 @@
 |  0416  |          | [5566-rilak與他的快樂小夥伴們](http://neoj.sprout.tw/problem/5566/) | [354-野豬騎士史記 I](http://neoj.sprout.tw/problem/354/)、[382-西瓜的奇妙冒險 -- 大數據篇](http://neoj.sprout.tw/problem/382/)、[383-海捌樂愛的大冒險 -- 異世界篇](http://neoj.sprout.tw/problem/383/)、[384-海捌樂愛的幸運數字](http://neoj.sprout.tw/problem/384/)|
 |0508||[2014-再探修羅道-停修的滋味QQ](http://neoj.sprout.tw/problem/2014/)||
 |0514|| [8770-Queue 練習](http://neoj.sprout.tw/problem/8770/)、[8771-Stack 練習](http://neoj.sprout.tw/problem/8771/) | [8772-括弧匹配](http://neoj.sprout.tw/problem/8772/) |
+|0521||[2015-修羅道的暴力](https://neoj.sprout.tw/problem/2015/)、[2016-修羅道的輕鬆練習-fibonacci](https://neoj.sprout.tw/problem/2016/)|[2017-修羅道的有點不輕鬆練習-枚舉](https://neoj.sprout.tw/problem/2017/)|
+|0528||[2019-修羅道的資料挖掘師 -- 天氣篇](https://neoj.sprout.tw/problem/2019/)||
+|0604||[2020-八七皇后問題](https://neoj.sprout.tw/problem/2020/)|[2021-修羅道的載物者 - 工具人](https://neoj.sprout.tw/problem/2021/)|
+|0611||||
