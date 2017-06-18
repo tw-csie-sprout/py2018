@@ -88,3 +88,4 @@
 ## 第七週投影片 06/18
 - [Set](https://drive.google.com/open?id=0B3pWo1MgVwxDNEQyR3hlU0VCRnM)
 - [Matplotlib](https://hackmd.io/p/HkMRhzM7b#/)
+- [筆記. Matplotlib](note/matplotlib.html)
