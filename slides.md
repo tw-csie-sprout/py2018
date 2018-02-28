@@ -1,5 +1,7 @@
 # 第一階段
 
+給點面子啦QQ
+
 ## 第一週投影片 02/26
 - [課程規則]()
 - [Python/開發環境介紹](https://drive.google.com/open?id=1Tfs3RinvCEq4e7-u8SKJrI8K50y5sJ5A)
