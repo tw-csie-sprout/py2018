@@ -9,4 +9,4 @@
 
 ## 第二週投影片 03/11
 - [邏輯判斷、if]
-- [while](https://drive.google.com/open?id=1NOWyMWQT71T1rcB2738D0h5jJZm6I7Cl)
+- [while]
