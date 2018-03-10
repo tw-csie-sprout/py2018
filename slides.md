@@ -8,5 +8,7 @@
 - [錯誤訊息解讀](https://drive.google.com/open?id=1VcYleHiSmecX45n4aAdRlgtthTHAVDj4)
 
 ## 第二週投影片 03/11
-- [邏輯判斷、if]
+- [boolean/if-note](note/week2_boolean_if.html)
+- [boolean]
+- [if/elif/else]
 - [while]
