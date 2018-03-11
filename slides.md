@@ -9,6 +9,6 @@
 
 ## 第二週投影片 03/11
 - [boolean/if-note](note/week2_boolean_if.html)
-- [boolean]
-- [if/elif/else]
+- [boolean](https://drive.google.com/open?id=1U8GFP29Q1jFjbGqkh5BzY3QMFM8Io4Q9)
+- [if/elif/else](https://drive.google.com/open?id=1YDHK163s4iHPZoirqbUQzOgmucDxxshY)
 - [while]
