@@ -8,7 +8,8 @@
 - [錯誤訊息解讀](https://drive.google.com/open?id=1VcYleHiSmecX45n4aAdRlgtthTHAVDj4)
 
 ## 第二週投影片 03/11
+- [boolean](https://drive.google.com/open?id=1U8GFP29Q1jFjbGqkh5BzY3QMFM8Io4Q9)
+- [if/elif/else](https://drive.google.com/open?id=1YDHK163s4iHPZoirqbUQzOgmucDxxshY)
 - [boolean/if-note](note/week2_boolean_if.html)
-- [boolean]
-- [if/elif/else]
-- [while]
+- [while](https://drive.google.com/open?id=1NOWyMWQT71T1rcB2738D0h5jJZm6I7Cl)
+- [while-note](note/week2_while_note.html)
