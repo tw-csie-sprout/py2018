@@ -16,6 +16,7 @@
 
 ## 第三週投影片 03/18
 - [review](https://drive.google.com/open?id=1hcTvkHI76Hws7WIflWcU3V0JaX7EtAg-)
+- [review-note](note/week3review.html)
 - [list-1](https://drive.google.com/open?id=1WngC5b4YVPH2jWTDUmLJDLNnm1nieSdO)
 - [for](https://drive.google.com/open?id=1qVxBB5LLQ-GNrWnsX-3yPu7LWt8l4Dsw)
 - [list-2](https://drive.google.com/open?id=1EsADViT2m7WkB4ZgYtbagGz3ftYmXVnH)
