@@ -19,4 +19,5 @@
 - [review-note](note/week3review.html)
 - [list-1](https://drive.google.com/open?id=1WngC5b4YVPH2jWTDUmLJDLNnm1nieSdO)
 - [for](https://drive.google.com/open?id=1qVxBB5LLQ-GNrWnsX-3yPu7LWt8l4Dsw)
+- [for-note](note/week3_for.html)
 - [list-2](https://drive.google.com/open?id=1EsADViT2m7WkB4ZgYtbagGz3ftYmXVnH)
