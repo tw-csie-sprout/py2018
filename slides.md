@@ -21,6 +21,7 @@
 - [for](https://drive.google.com/open?id=1qVxBB5LLQ-GNrWnsX-3yPu7LWt8l4Dsw)
 - [for-note](note/week3_for.html)
 - [list-2](https://drive.google.com/open?id=1EsADViT2m7WkB4ZgYtbagGz3ftYmXVnH)
+- [list-note](note/week3_example_practice.html)
 
 ## 第四週投影片 03/25
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
