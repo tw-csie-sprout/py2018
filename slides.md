@@ -38,4 +38,5 @@
 - [import-note](note/week5_import.html)
 - [project1.zip](https://drive.google.com/open?id=13IPbXWYyRKs4cA0C9AytqdBbK4rDp-af)
 - [flask_practice.zip](https://drive.google.com/open?id=14mzs4eH_d2GmERtPo-86L0tjzO3komWX)
+- [大作業說明](https://drive.google.com/open?id=1T8dzAdWnFcg72PUp-XNAuRmcDWgv7gJS)
 
