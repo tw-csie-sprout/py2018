@@ -19,12 +19,16 @@
 - [review-note](note/week3_review.html)
 - [list-1](https://drive.google.com/open?id=1WngC5b4YVPH2jWTDUmLJDLNnm1nieSdO)
 - [for](https://drive.google.com/open?id=1qVxBB5LLQ-GNrWnsX-3yPu7LWt8l4Dsw)
+- [for-note](note/week3_for.html)
 - [list-2](https://drive.google.com/open?id=1EsADViT2m7WkB4ZgYtbagGz3ftYmXVnH)
 
 ## 第四週投影片 03/25
-- [for-note](note/week3_for.html)
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
 - [String](https://hackmd.io/p/ByxvynGDG#/)
 
 ## 第五週投影片 04/01
+- [review](https://drive.google.com/open?id=1eCxVCVVUyJosA2X_Movl2T5KiGt69ReE)
 - [function](https://slides.com/piepie01/function#/)
+- [import](https://drive.google.com/open?id=1HbdjakV_M1vhT4CdJm03sJA1ASIKm2Ft)
+- [import-note](note/week5_import.html)
+
