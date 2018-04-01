@@ -32,4 +32,6 @@
 - [function](https://slides.com/piepie01/function#/)
 - [import](https://drive.google.com/open?id=1HbdjakV_M1vhT4CdJm03sJA1ASIKm2Ft)
 - [import-note](note/week5_import.html)
+- [project1.zip](https://drive.google.com/open?id=13IPbXWYyRKs4cA0C9AytqdBbK4rDp-af)
+- [flask_practice.zip](https://drive.google.com/open?id=14mzs4eH_d2GmERtPo-86L0tjzO3komWX)
 
