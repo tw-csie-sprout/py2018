@@ -38,6 +38,7 @@
 ## 第五週投影片 04/01
 - [review](https://drive.google.com/open?id=1eCxVCVVUyJosA2X_Movl2T5KiGt69ReE)
 - [function](https://slides.com/piepie01/function#/)
+- [測試&DEBUG-note](note/week5_測試&debug.html)
 - [import](https://drive.google.com/file/d/1HbdjakV_M1vhT4CdJm03sJA1ASIKm2Ft)
 - [import-note](note/week5_import.html)
 - [project1.zip](https://drive.google.com/open?id=13IPbXWYyRKs4cA0C9AytqdBbK4rDp-af)
