@@ -19,9 +19,27 @@
 - [review-note](note/week3_review.html)
 - [list-1](https://drive.google.com/open?id=1WngC5b4YVPH2jWTDUmLJDLNnm1nieSdO)
 - [for](https://drive.google.com/open?id=1qVxBB5LLQ-GNrWnsX-3yPu7LWt8l4Dsw)
+<<<<<<< HEAD
+=======
+- [for-note](note/week3_for.html)
+>>>>>>> 00ec53d2cc9e57f1c88b0b2f6291022a3122f197
 - [list-2](https://drive.google.com/open?id=1EsADViT2m7WkB4ZgYtbagGz3ftYmXVnH)
+- [list-note](note/week3_example_practice.html)
 
 ## 第四週投影片 03/25
+<<<<<<< HEAD
 - [for-note](note/week3_for.html)
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
 - [String](https://hackmd.io/p/ByxvynGDG#/)
+=======
+- [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
+- [String](https://hackmd.io/p/ByxvynGDG#/)
+
+## 第五週投影片 04/01
+- [review](https://drive.google.com/open?id=1eCxVCVVUyJosA2X_Movl2T5KiGt69ReE)
+- [function](https://slides.com/piepie01/function#/)
+- [import](https://drive.google.com/file/d/1HbdjakV_M1vhT4CdJm03sJA1ASIKm2Ft)
+- [import-note](note/week5_import.html)
+- [project1.zip](https://drive.google.com/open?id=13IPbXWYyRKs4cA0C9AytqdBbK4rDp-af)
+- [flask_practice.zip](https://drive.google.com/open?id=14mzs4eH_d2GmERtPo-86L0tjzO3komWX)
+
