@@ -24,7 +24,6 @@
 - [list-note](note/week3_example_practice.html)
 
 ## 第四週投影片 03/25
-- [for-note](note/week3_for.html)
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
 - [String](https://hackmd.io/p/ByxvynGDG#/)
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
