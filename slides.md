@@ -39,3 +39,6 @@
 - [flask_practice.zip](https://drive.google.com/open?id=14mzs4eH_d2GmERtPo-86L0tjzO3komWX)
 - [大作業說明](https://drive.google.com/open?id=1T8dzAdWnFcg72PUp-XNAuRmcDWgv7gJS)
 
+## 第六週投影片 04/08 
+
+- [pickle、tuple-note](note/pickle_tuple.html)
