@@ -26,8 +26,6 @@
 ## 第四週投影片 03/25
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
 - [String](https://hackmd.io/p/ByxvynGDG#/)
-- [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
-- [String](https://hackmd.io/p/ByxvynGDG#/)
 
 ## 第五週投影片 04/01
 - [review](https://drive.google.com/open?id=1eCxVCVVUyJosA2X_Movl2T5KiGt69ReE)
@@ -41,4 +39,6 @@
 
 ## 第六週投影片 04/08 
 
+- [review](https://drive.google.com/open?id=1iFQlTgTS4-t_5Eztfgxg-MoaFxVX8Hcr)
+- [review-note](note/week6_review.html)
 - [pickle、tuple-note](note/pickle_tuple.html)
