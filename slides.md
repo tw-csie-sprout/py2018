@@ -42,5 +42,5 @@
 - [review](https://drive.google.com/open?id=1iFQlTgTS4-t_5Eztfgxg-MoaFxVX8Hcr)
 - [review-note](note/week6_review.html)
 - [string](note/week6_string.html)
-- [slack](https://drive.google.com/open?id=1CV2mhKl4ilppZBXcd5EaGXCxPSDOEr7o)
+- [flask](https://drive.google.com/open?id=1CV2mhKl4ilppZBXcd5EaGXCxPSDOEr7o)
 - [pickle、tuple-note](note/pickle_tuple.html)
