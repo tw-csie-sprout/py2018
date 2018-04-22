@@ -24,9 +24,6 @@
 - [list-note](note/week3_example_practice.html)
 
 ## 第四週投影片 03/25
-- [for-note](note/week3_for.html)
-- [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
-- [String](https://hackmd.io/p/ByxvynGDG#/)
 - [Dict](https://drive.google.com/open?id=1pal7wp1BrlwbA84NwoeYm5gtVyniNFPh)
 - [String](https://hackmd.io/p/ByxvynGDG#/)
 
@@ -40,3 +37,14 @@
 - [flask_practice.zip](https://drive.google.com/open?id=14mzs4eH_d2GmERtPo-86L0tjzO3komWX)
 - [大作業說明](https://drive.google.com/open?id=1T8dzAdWnFcg72PUp-XNAuRmcDWgv7gJS)
 
+## 第六週投影片 04/08 
+
+- [review](https://drive.google.com/open?id=1iFQlTgTS4-t_5Eztfgxg-MoaFxVX8Hcr)
+- [review-note](note/week6_review.html)
+- [string](note/week6_string.html)
+- [flask](https://drive.google.com/open?id=1CV2mhKl4ilppZBXcd5EaGXCxPSDOEr7o)
+- [pickle、tuple-note](note/pickle_tuple.html)
+
+## 第七週投影片 04/22
+
+- [Big Review](https://hackmd.io/p/HJpqf6Inf)
