@@ -44,3 +44,7 @@
 - [string](note/week6_string.html)
 - [flask](https://drive.google.com/open?id=1CV2mhKl4ilppZBXcd5EaGXCxPSDOEr7o)
 - [pickle、tuple-note](note/pickle_tuple.html)
+
+## 第七週投影片 04/22
+
+- [File I/O](https://drive.google.com/open?id=1CA9WM64_QgYrd7co2Hju5-uth6R5aUz3)
