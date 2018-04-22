@@ -47,4 +47,5 @@
 
 ## 第七週投影片 04/22
 
+- [File I/O](https://drive.google.com/file/d/1gZRIRcoCI5x3U4XJz4-DXAu22XtfbOEU/view)
 - [Big Review](https://hackmd.io/p/HJpqf6Inf)
