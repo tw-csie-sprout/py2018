@@ -50,7 +50,7 @@
 - [File I/O](https://drive.google.com/file/d/1gZRIRcoCI5x3U4XJz4-DXAu22XtfbOEU/view)
 - [Big Review](https://hackmd.io/p/HJpqf6Inf)
 
-## 第八週投影片 05/06
+## 第九週投影片 05/06
 
 - [list Comprehension](https://hackmd.io/p/SkVAY5MDz#/)
 
