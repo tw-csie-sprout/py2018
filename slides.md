@@ -50,5 +50,3 @@
 - [File I/O](https://drive.google.com/file/d/1gZRIRcoCI5x3U4XJz4-DXAu22XtfbOEU/view)
 - [Big Review](https://hackmd.io/p/HJpqf6Inf)
 
-## 第八週投影片 05/06
-- [socket](https://drive.google.com/open?id=1JwvnSe455I6svRbmFmiiulV4hFT_OFHr)
