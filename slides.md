@@ -54,3 +54,6 @@
 
 - [list Comprehension](https://hackmd.io/p/SkVAY5MDz#/)
 
+## 第十週投影片 05/13
+
+- [Socket](https://drive.google.com/open?id=1vF0NYEt-krGGodLUkSyog-4UGgDvVTOg)
