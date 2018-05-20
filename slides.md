@@ -57,3 +57,9 @@
 ## 第十週投影片 05/13
 
 - [Socket](https://drive.google.com/open?id=1PF3bWPVdE5bJi5FFafSV4s2LLx4pqF18)
+
+## 第十一週投影片 05/20
+
+- [衛教宣導1-PEP8, 變數命名, 慣用語](https://drive.google.com/open?id=1AjZVWlVswzeRAoPC3oNmB78n_AEcqK46)
+- [衛教宣導2-資料結構, 時間複雜度](https://drive.google.com/open?id=1NUzEEJ5gdDlGQbAX3f3SlkMgUTMCgUim)
+- [衛教宣導3-演算法, 資料結構](https://drive.google.com/open?id=12_qRJIXcDUGBrUVo9dyZTIsszJj2vUoK)
