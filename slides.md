@@ -64,3 +64,7 @@
 - [衛教宣導2-資料結構, 時間複雜度](https://drive.google.com/open?id=1NUzEEJ5gdDlGQbAX3f3SlkMgUTMCgUim)
 - [衛教宣導3-演算法, 資料結構](https://drive.google.com/open?id=12_qRJIXcDUGBrUVo9dyZTIsszJj2vUoK)
 - [note](note/TimeComplexity.html)
+
+## 第十二週投影片 05/27
+
+- [Class](https://drive.google.com/file/d/1iMkCqQrOxjAW8dbldO5zu6JWcOPYCaFi/view?usp=sharing)
