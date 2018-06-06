@@ -69,3 +69,7 @@
 
 - [Class](https://drive.google.com/file/d/1iMkCqQrOxjAW8dbldO5zu6JWcOPYCaFi/view?usp=sharing)
 - [Pygame](https://drive.google.com/open?id=1gVaOX5A0CJzUmfum93UZxQuCWcEGHKUj)
+
+## 第十四週投影片 06/10
+
+- [隱寫圖](https://hackmd.io/p/H1lh6hbif#/)
