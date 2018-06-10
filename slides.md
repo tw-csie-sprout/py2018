@@ -69,3 +69,13 @@
 
 - [Class](https://drive.google.com/file/d/1iMkCqQrOxjAW8dbldO5zu6JWcOPYCaFi/view?usp=sharing)
 - [Pygame](https://drive.google.com/open?id=1gVaOX5A0CJzUmfum93UZxQuCWcEGHKUj)
+
+## 第十四週投影片 06/10
+
+- [pillow-1](https://drive.google.com/open?id=1XP_58CKsQIRv8INjSSMCyE8Dl4sveTCt)
+- [pillow-1-note](note/pillow_intro.html)
+- [pillow-2](https://drive.google.com/open?id=1CHO_JJur7n7OOU1r4QINVtMGEGUWHi_S)
+- [pillow-2-note](note/pillow_filter.html)
+- [pillow-hw](https://drive.google.com/open?id=1lvdarnsTSkaS0xgiSmjB-Fs0qvIp1DIv)
+- [sample.jpg](note/sample.jpg)
+- [sample2.jpg](note/sample2.jpg)
