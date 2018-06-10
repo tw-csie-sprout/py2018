@@ -67,8 +67,13 @@
 
 ## 第十二週投影片 05/27
 
-- [Class](https://drive.google.com/file/d/1iMkCqQrOxjAW8dbldO5zu6JWcOPYCaFi/view?usp=sharing)
+- [Class](https://drive.google.com/open?id=1iMkCqQrOxjAW8dbldO5zu6JWcOPYCaFi)
 - [Pygame](https://drive.google.com/open?id=1gVaOX5A0CJzUmfum93UZxQuCWcEGHKUj)
+
+## 第十三週投影片 06/03
+
+- [MVC架構](https://drive.google.com/open?id=1LZAlmEgHdqy92LssKDUN72alv6_WrndF)
+- [大作業說明](https://drive.google.com/open?id=1BZUMmdOVWVCrgLfvKCjoAV4Pcz_Idlhb)
 
 ## 第十四週投影片 06/10
 
@@ -79,3 +84,4 @@
 - [pillow-hw](https://drive.google.com/open?id=1lvdarnsTSkaS0xgiSmjB-Fs0qvIp1DIv)
 - [sample.jpg](note/sample.jpg)
 - [sample2.jpg](note/sample2.jpg)
+- [隱寫圖](https://hackmd.io/p/H1lh6hbif#/)
