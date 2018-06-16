@@ -16,4 +16,4 @@
 |  0506  | | | [自選OJ五題一行解](https://www.facebook.com/groups/twsprout18python/permalink/2024437124478012/) |
 |  0520  | | | [3080-旅行青蛙問題－這次一定要拿到土產](https://neoj.sprout.tw/problem/3080/)、[3082-大胃王的挑戰](https://neoj.sprout.tw/problem/3082/)、[3084-Queue練習](https://neoj.sprout.tw/problem/3084/)、[3085-Stack練習](https://neoj.sprout.tw/problem/3085/) |
 |  0603  | [大作業](https://drive.google.com/open?id=1vJY4iy5ae0kq-707SvyS9vzdPGyzDfGD) | | |
-|  0610  | 作業（TBA） | | |
+|  0610  | [作業1](https://drive.google.com/file/d/1lvdarnsTSkaS0xgiSmjB-Fs0qvIp1DIv/view)、[作業2](https://hackmd.io/p/H1lh6hbif#/5)（二選一） | | |
