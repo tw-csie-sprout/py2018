@@ -85,3 +85,8 @@
 - [sample.jpg](note/sample.jpg)
 - [sample2.jpg](note/sample2.jpg)
 - [隱寫圖](https://hackmd.io/p/H1lh6hbif#/)
+
+## 第十五週投影片 06/17
+
+- [requests-note](note/week15_requests.html)
+- [requests-番外篇](note/week15_requests_番外篇.html)
