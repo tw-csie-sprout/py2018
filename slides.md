@@ -82,6 +82,7 @@
 - [pillow-2](https://drive.google.com/open?id=1CHO_JJur7n7OOU1r4QINVtMGEGUWHi_S)
 - [pillow-2-note](note/pillow_filter.html)
 - [pillow-hw](https://drive.google.com/open?id=1lvdarnsTSkaS0xgiSmjB-Fs0qvIp1DIv)
+- [pillow-hw-note](note/pillow_homework.html)
 - [sample.jpg](note/sample.jpg)
 - [sample2.jpg](note/sample2.jpg)
 - [隱寫圖](https://hackmd.io/p/H1lh6hbif#/)
